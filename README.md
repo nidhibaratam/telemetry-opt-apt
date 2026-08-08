@@ -1,6 +1,8 @@
 ###  Documentation
+[Click here to see the Google Colab](https://colab.research.google.com/drive/1zCpl76LopcvhnkK-SVP50yHpsaae3kE1?usp=sharing)
 
-[Click here to download the PDF version](paper/Automated_Planetary_Terrain_Analysis__A_Comparative_Study_of_Frequency_Domain_Transforms_for_Telemetry_Optimization__Copy_.pdf)
+
+[Click here to download the PDF version of the paper](paper/Automated_Planetary_Terrain_Analysis__A_Comparative_Study_of_Frequency_Domain_Transforms_for_Telemetry_Optimization__Copy_.pdf)
 
 ![Page 1](paper/page1.png)
 ![Page 2](paper/page2.png)
